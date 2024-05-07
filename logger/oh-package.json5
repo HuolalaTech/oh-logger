@@ -1,0 +1,9 @@
+{
+  "name": "@huolala/logger",
+  "version": "1.0.0",
+  "description": "Logger, 是一款极轻量级的日志库。支持：格式化输出、长日志自动换行、打印调用堆栈、切换日志引擎、扩展其他日志系统等，满足开发者打印日志需求。",
+  "main": "Index.ets",
+  "author": "hll",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
